@@ -1,2 +1,3 @@
-#megacorp | good marketing example
-MegaCorp is the enterprise cusomer realtionshp managemnet software.
+# megacorp
+
+The starter repo for the [Git 2 course](https://www.boot.dev/learn/learn-git-2) on Boot.dev.
